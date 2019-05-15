@@ -1,0 +1,6 @@
+
+­%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'java.net.ProtocolException' which is a subclass of 'java.io.IOException'.(¤ÜšŸ8å©Ù¥-
+1squid:S1220""Move this file to a named package.
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ÙşÈşúÿÿÿÿ8å©Ù¥-
+¶%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(‰ƒ°äúÿÿÿÿ8å©Ù¥-
